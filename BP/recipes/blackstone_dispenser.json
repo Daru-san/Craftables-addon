@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cb:blackstone_dispenser"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AAA",
+			"ABA",
+			"ACA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:blackstone",
+				"data": 0
+			},
+			"B": {
+				"item": "minecraft:bow",
+				"data": 0
+			},
+			"C": {
+				"item": "minecraft:redstone",
+				"data": 0
+			}
+		},
+		"result": {
+			"item": "minecraft:dispenser",
+			"count": 1,
+			"data": 0
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cb:elytra"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"ABA",
+			"ACA",
+			"D D"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:phantom_membrane",
+				"data": 0
+			},
+			"B": {
+				"item": "minecraft:diamond",
+				"data": 0
+			},
+			"C": {
+				"item": "minecraft:ender_eye",
+				"data": 0
+			},
+			"D": {
+				"item": "minecraft:feather",
+				"data": 0
+			}
+		},
+		"result": {
+			"item": "minecraft:elytra",
+			"count": 1,
+			"data": 0
+		}
+	}
+}

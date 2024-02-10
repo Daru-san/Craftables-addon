@@ -1,0 +1,14 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "cb:raw_gold_block"
+		},
+		"tags": [
+			"blast_furnace",
+			"furnace"
+		],
+		"input": "minecraft:raw_gold_block",
+		"output": "minecraft:gold_block"
+	}
+}

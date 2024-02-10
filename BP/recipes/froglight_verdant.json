@@ -1,0 +1,30 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cb:froglight_verdant"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"A": {
+				"item": "shroomlight"
+			},
+			"B": {
+				"item": "minecraft:green_dye"
+			},
+			"C": {
+				"item": "minecraft:magma_cream"
+			}
+		},
+		"pattern": [
+			"CAC",
+			"ABA",
+			"CAC"
+		],
+		"result": {
+			"item": "minecraft:verdant_froglight"
+		}
+	}
+}

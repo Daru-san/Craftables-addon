@@ -1,0 +1,35 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cb:name_tag"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" AB",
+			"ACA",
+			"CA "
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:string",
+				"data": 0
+			},
+			"B": {
+				"item": "minecraft:iron_ingot",
+				"data": 0
+			},
+			"C": {
+				"item": "minecraft:paper",
+				"data": 0
+			}
+		},
+		"result": {
+			"item": "minecraft:name_tag",
+			"count": 1,
+			"data": 0
+		}
+	}
+}

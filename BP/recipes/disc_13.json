@@ -1,0 +1,31 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cb:disc_13"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			" A ",
+			"ABA",
+			" A "
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:iron_ingot",
+				"data": 0
+			},
+			"B": {
+				"item": "minecraft:gold_ingot",
+				"data": 0
+			}
+		},
+		"result": {
+			"item": "minecraft:record_13",
+			"count": 1,
+			"data": 0
+		}
+	}
+}

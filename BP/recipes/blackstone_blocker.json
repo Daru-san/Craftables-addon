@@ -1,0 +1,31 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cb:blackstone_blocker"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"pattern": [
+			"AAA",
+			"A A",
+			"ABA"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:blackstone",
+				"data": 0
+			},
+			"B": {
+				"item": "minecraft:redstone",
+				"data": 0
+			}
+		},
+		"result": {
+			"item": "minecraft:dropper",
+			"count": 1,
+			"data": 0
+		}
+	}
+}
