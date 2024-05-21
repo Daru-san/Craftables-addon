@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "cb:disc_precipice"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:copper_ingot",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      }
+    },
+    "pattern": [
+      "BBB",
+      "BAB",
+      "BBB"
+    ],
+    "result": {
+      "item": "minecraft:music_disc_precipice"
+    }
+  }
+}
