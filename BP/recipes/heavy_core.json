@@ -1,0 +1,29 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "cb:heavy_core.json"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:obsidian",
+				"data": 0
+			},
+			"B": {
+				"item": "minecraft:netherite_block",
+				"data": 0
+			}
+		},
+		"pattern": [
+			"AAA",
+			"ABA",
+			"AAA"
+		],
+		"result": {
+			"item": "minecraft:heavy_core"
+		}
+	}
+}
